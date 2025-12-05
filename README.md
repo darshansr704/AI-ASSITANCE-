@@ -32,7 +32,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/FALCON-AI-Assistant.git
+   git clone https://github.com/darshansr704/FALCON-AI-Assistant.git
    cd FALCON-AI-Assistant
    ```
 
